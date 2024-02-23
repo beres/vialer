@@ -17,8 +17,7 @@ dependencies:
 
   flutter_phone_lib: 0.0.9
   font_awesome_flutter:
-    hosted: https://onepub.dev/api/xhopsdavuh/
-    version: ^1.0.0
+    version: ^10.7.0
   flutter_bloc: ^8.1.3
   provider: ^6.1.1
   equatable: ^2.0.5
